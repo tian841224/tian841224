@@ -13,7 +13,7 @@
 ## 📊 &nbsp;Stats
 
 #### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Tian1224?theme=dark&font=Artifika)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Tian1224?theme=nord)
 
 #### Github
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacky841224j&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal," alt="jacky841224j" /></p>
