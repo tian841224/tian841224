@@ -4,6 +4,9 @@
 ## 🧰 &nbsp;My Toolbox
 #### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,sqlite,ubuntu)](https://skillicons.dev)
+<div align="left">
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
+</div>
 
 #### Tool
 [![My Skills](https://skillicons.dev/icons?i=aws,github,githubactions,postman,selenium)](https://skillicons.dev)
@@ -24,8 +27,7 @@
 
 &nbsp;
 
-<h4 align="left">Connect with me</h4>
-
+## ☎️ &nbsp;Connect
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jacky841224j@gmail.com)
 
 
