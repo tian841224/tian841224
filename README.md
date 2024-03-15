@@ -16,11 +16,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tian1224?theme=dark&font=Artifika)
 
 ### Github
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacky841224j&theme=ambient_gradient&show_icons=true&locale=en&layout=donut" alt="jacky841224j" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacky841224j&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal," alt="jacky841224j" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacky841224j&theme=ambient_gradient&show_icons=true&locale=en&hide=issues,contribs" alt="jacky841224j" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacky841224j&theme=calm_pink&show_icons=true&locale=en&hide=issues,contribs" alt="jacky841224j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacky841224j&theme=ambient_gradient" alt="jacky841224j" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacky841224j&theme=calm_pink" alt="jacky841224j" /></p>
 
 <h3 align="left">Connect with me：</h3>
 
