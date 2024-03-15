@@ -22,7 +22,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacky841224j&theme=calm_pink" alt="jacky841224j" /></p>
 
-<h3 align="left">Connect with me：</h3>
+&nbsp;
+
+<h4 align="left">Connect with me</h4>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jacky841224j@gmail.com)
 
