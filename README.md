@@ -27,7 +27,7 @@
 
 &nbsp;
 
-## ☎️ &nbsp;Connect
+## ☎️ &nbsp;Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jacky841224j@gmail.com)
 
 
