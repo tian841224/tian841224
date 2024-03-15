@@ -3,7 +3,7 @@
 &nbsp;
 ## 🧰 &nbsp;My Toolbox
 #### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,cs,dotnet,docker,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,sqlite,ubuntu)](https://skillicons.dev)
 
 #### Tool
 [![My Skills](https://skillicons.dev/icons?i=aws,github,githubactions,postman,selenium)](https://skillicons.dev)
