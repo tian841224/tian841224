@@ -1,14 +1,16 @@
 <h2 align="center">👋 This is My Profile</h2>
 
+## :pencil: &nbsp;My Note
+* [資料庫觀念](https://hackmd.io/@tian841224/HJu-wx7Cp)
+* [將GitHub程式打包成Docker自動部屬至EC2](https://hackmd.io/@tian841224/HJPmJuws6)
+
 &nbsp;
 ## 🧰 &nbsp;My Toolbox
-#### Backend Development
+### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,sqlite,ubuntu)](https://skillicons.dev)
-<div align="left">
-	<code><img width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" title="MSSQL"/></code>
-</div>
+<div align="left"><code><img width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" title="MSSQL"/></code></div>
 
-#### Tool
+### Tool
 [![My Skills](https://skillicons.dev/icons?i=aws,github,githubactions,postman,selenium)](https://skillicons.dev)
 
 &nbsp;
