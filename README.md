@@ -7,7 +7,7 @@
 &nbsp;
 ## 🧰 &nbsp;My Toolbox
 ### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,sqlite,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,sqlite,mysql,ubuntu)](https://skillicons.dev)
 <div align="left"><code><img width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" title="MSSQL"/></code></div>
 
 ### Tool
