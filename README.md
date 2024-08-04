@@ -21,20 +21,20 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Tian1224?theme=nord)
 
 #### Github
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacky841224j&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal," alt="jacky841224j" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tian841224&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal," alt="jacky841224j" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacky841224j&theme=calm_pink&show_icons=true&locale=en&hide=issues,contribs" alt="jacky841224j" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tian841224&theme=calm_pink&show_icons=true&locale=en&hide=issues,contribs" alt="jacky841224j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacky841224j&theme=calm_pink" alt="jacky841224j" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tian841224&theme=calm_pink" alt="jacky841224j" /></p>
 
 &nbsp;
 
 ## ☎️ &nbsp;Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jacky841224j@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tian841224@gmail.com)
 
 
 <!--
-**jacky841224j/jacky841224j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tian841224/tian841224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
