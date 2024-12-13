@@ -1,10 +1,3 @@
-## :pencil: &nbsp;My Note
-
-* [C# 物件導向觀念](https://hackmd.io/@tian841224/S1lu8-_41e)
-* [資料庫觀念](https://hackmd.io/@tian841224/HJu-wx7Cp)
-* [將GitHub程式打包成Docker自動部屬至EC2](https://hackmd.io/@tian841224/HJPmJuws6)
-
-&nbsp;
 ## 🧰 &nbsp;My Toolbox
 ### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nestjs,docker,redis,rabbitmq,sqlite,mysql,ubuntu)](https://skillicons.dev)
@@ -33,6 +26,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tian841224@gmail.com)
 
 
+&nbsp;
+
+## :pencil: &nbsp;My Note
+
+* [C# 物件導向觀念](https://hackmd.io/@tian841224/S1lu8-_41e)
+* [資料庫觀念](https://hackmd.io/@tian841224/HJu-wx7Cp)
+* [將GitHub程式打包成Docker自動部屬至EC2](https://hackmd.io/@tian841224/HJPmJuws6)
+
+### 好文分享
+* [三次原則（Rule Of Three principle）](https://shawnlin0201.github.io/Methodology/Methodology-004-Rule-Of-Three-principle/)
+
 <!--
 **tian841224/tian841224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
