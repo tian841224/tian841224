@@ -4,7 +4,7 @@
 <div align="left"><code><img width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" title="MSSQL"/></code></div>
 
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,github,gitlab,jenkins,nginx,githubactions,postman,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,github,gitlab,jenkins,nginx,githubactions,postman,selenium,cloudflare)](https://skillicons.dev)
 
 &nbsp;
 
