@@ -35,6 +35,8 @@
 * [SOLID原則](https://hackmd.io/@tian841224/S1qci5UVye)
 * [資料庫觀念](https://hackmd.io/@tian841224/HJu-wx7Cp)
 * [將GitHub程式打包成Docker自動部屬至EC2](https://hackmd.io/@tian841224/HJPmJuws6)
+* [使用Cloudflare將AWS EC2主機IP設定成HTTPS](https://hackmd.io/@tian841224/ryu7bmCq1l)
+
 
 ### 好文分享
 * [三次原則（Rule Of Three principle）](https://shawnlin0201.github.io/Methodology/Methodology-004-Rule-Of-Three-principle/)
