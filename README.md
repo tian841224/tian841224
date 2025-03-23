@@ -20,11 +20,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tian841224&theme=calm_pink" alt="jacky841224j" /></p>
 
-&nbsp;
 
 ## ☎️ &nbsp;Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tian841224@gmail.com)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/%E7%AB%A3%E5%A4%A9-%E9%84%A7-3781b71b5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="jacky841224j@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/tian5252T" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
 &nbsp;
 
