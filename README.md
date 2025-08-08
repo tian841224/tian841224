@@ -15,11 +15,6 @@
 #### Github
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tian841224&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal," alt="tian841224" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tian841224&theme=calm_pink&show_icons=true&locale=en&hide=issues,contribs" alt="tian841224" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tian841224&theme=calm_pink" alt="tian841224" /></p>
-
-
 ## ☎️ &nbsp;Contact
 <div align="left">
   <a href="https://www.linkedin.com/in/%E7%AB%A3%E5%A4%A9-%E9%84%A7-3781b71b5/" target="_blank">
