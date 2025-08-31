@@ -2,10 +2,11 @@
 ### Backend Development
 [![Laguage](https://skillicons.dev/icons?i=go,dotnet,nestjs)](https://skillicons.dev)
 
-[![DateBase](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
+### DateBase
+[![DateBase](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=5)](https://skillicons.dev)
 
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,github,gitlab,jenkins,nginx,githubactions,postman,selenium,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,github,gitlab,jenkins,nginx,githubactions,postman,selenium,cloudflare&perline=5)](https://skillicons.dev)
 
 ### Cloud Service
 [![Cloud Service](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
