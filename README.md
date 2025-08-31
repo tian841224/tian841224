@@ -1,9 +1,14 @@
 ## 🧰 &nbsp;My Toolbox
 ### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nestjs,docker,redis,rabbitmq,sqlite,mysql,ubuntu)](https://skillicons.dev)
+[![Laguage](https://skillicons.dev/icons?i=go,dotnet,nestjs)](https://skillicons.dev)
+
+[![DateBase](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,github,gitlab,jenkins,nginx,githubactions,postman,selenium,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,github,gitlab,jenkins,nginx,githubactions,postman,selenium,cloudflare)](https://skillicons.dev)
+
+### Cloud Service
+[![Cloud Service](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 
 &nbsp;
 
