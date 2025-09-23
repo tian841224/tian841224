@@ -2,7 +2,7 @@
 ### Backend Development
 [![Laguage](https://skillicons.dev/icons?i=go,dotnet,nestjs)](https://skillicons.dev)
 
-### DateBase
+### DataBase
 [![DateBase](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=5)](https://skillicons.dev)
 
 ### Tool
