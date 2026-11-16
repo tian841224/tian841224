@@ -19,7 +19,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Tian1224?theme=nord)
 
 #### Github
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tian841224&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal," alt="tian841224" /></p>
+<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=tian841224&theme=calm_pink&show_icons=true&locale=en&layout=compact&hide=pascal" alt="tian841224" /></p>
 
 ## ☎️ &nbsp;Contact
 <div align="left">
